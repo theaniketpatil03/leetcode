@@ -40,3 +40,6 @@ def searchInsert(nums, target) -> int:
         else:
             left = mid + 1
     return left
+
+mid = 2 + 3 >> 1
+print(mid)
